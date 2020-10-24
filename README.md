@@ -28,3 +28,5 @@
 ### 원작자 정보
 
 Github: [android](https://github.com/android)/**[camera-samples](https://github.com/android/camera-samples)**
+
+Icon: Material Design
