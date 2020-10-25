@@ -1,5 +1,6 @@
 # MirroringCamera
  Mirror the real-time camera screen.
+ 
  카메라 화면을 미러링 하기 위해 사용합니다.
 
 본 앱은 TV, 또는 모니터 등에 카메라 화면을 미러링 하는 분들을 위해 개발되었습니다.
