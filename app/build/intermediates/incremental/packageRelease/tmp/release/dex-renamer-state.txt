@@ -1,0 +1,4 @@
+#Mon Oct 26 18:09:42 KST 2020
+base.0=/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

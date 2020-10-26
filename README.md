@@ -1,32 +1,51 @@
-# MirroringCamera
- 카메라 화면을 미러링 하기 위해 사용합니다.
 
-본 앱은 TV, 또는 모니터 등에 카메라 화면을 미러링 하는 분들을 위해 개발되었습니다.
+Android Camera2Basic Sample
+===========================
 
------
+This sample demonstrates using the Camera2 API to capture a JPEG, DEPTH or RAW frame.
+Check the source code to see a simple example of how to display the camera preview
+and capture a still image using the default configuration with the selected pixel
+format.
 
-### 사용방법
+Introduction
+------------
 
-사진 촬영: 볼륨 다운 버튼
+The [Camera2 API][1] allows users to capture RAW images, i.e. unprocessed pixel data
+directly from the camera sensor that has not yet been converted into a format and
+colorspace typically used for displaying and storing images viewed by humans.  The
+[DngCreator][2] class is provided as part of the Camera2 API as a utility for saving
+RAW images as DNG files.
 
-촬영된 사진 보기: 우측 최상단 버튼 2개 중 상단 버튼
+This sample displays a live camera preview in a TextureView, and saves JPEG and DNG
+file for each image captured.
 
-카메라 전환: 우측 최상단 버튼 2개 중 하단 버튼
+[1]: https://developer.android.com/reference/android/hardware/camera2/package-summary.html
+[2]: https://developer.android.com/reference/android/hardware/camera2/DngCreator.html
 
+Pre-requisites
+--------------
 
+- Android SDK 29+
+- Android Studio 3.5+
 
----
+Screenshots
+-------------
 
-### 안내
+<img src="screenshots/main.png" height="400" alt="Screenshot"/> 
 
-본 앱을 설치할 시에는 구글 프로텍트 경고가 뜨게 됩니다. 이는 구글에 개발자 등록이 되지 않아 발생하는 문제로, 악성코드와는 무관합니다.
+Getting Started
+---------------
 
+This sample uses the Gradle build system. To build this project, use the
+"gradlew build" command or use "Import Project" in Android Studio.
 
+Support
+-------
 
----
+- Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
-### 원작자 정보
+If you've found an error in this sample, please file an issue:
+https://github.com/android/camera-samples
 
-Github: [android](https://github.com/android)/**[camera-samples](https://github.com/android/camera-samples)**
-
-Icon: Material Design
+Patches are encouraged, and may be submitted by forking this project and
+submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.

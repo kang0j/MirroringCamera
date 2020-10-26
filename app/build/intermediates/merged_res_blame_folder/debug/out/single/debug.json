@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/layout-land_fragment_camera.xml.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/layout-land/fragment_camera.xml"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/layout_activity_camera.xml.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_baseline_center_focus_weak_white_48.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/drawable-xxhdpi/baseline_center_focus_weak_white_48.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/layout_fragment_camera.xml.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/drawable_ic_photo.xml.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/drawable/ic_photo.xml"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/jaehyunkang0/Downloads/camera-samples-main-3/Camera2Basic/app/src/main/res/navigation/nav_graph.xml"
+    }
+]
